@@ -26,3 +26,5 @@ Studying localization and eigenvalue behavior in a non-Hermitian system with ope
 
 analysis notebook: NHimpurity_OBC_notebook.ipynb
 plots: generated numerical results
+
+jupyter nbconvert Non_Hermitian_impurity_analysis.ipynb --to html
