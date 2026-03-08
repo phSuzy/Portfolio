@@ -25,4 +25,5 @@ Studying localization and eigenvalue behavior in a non-Hermitian system with ope
 ### Files
 
 plots: generated numerical results
+
 Visit https://github.com/phSuzy/Portfolio for files such as Non_Hermitian_impurity_analysis.ipynb notebook 
